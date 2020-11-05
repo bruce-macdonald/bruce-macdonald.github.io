@@ -9,7 +9,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(134, 240, 116);
   }
 
 li a {
@@ -21,7 +21,7 @@ li a {
   }
 
   .active {
-    background-color: #4CAF50;
+    background-color: #e0d533;
   }
   li {
     display: inline;
